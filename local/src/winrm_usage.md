@@ -1,4 +1,4 @@
-## Usage
+## Usage in Details
 
 Same as impacket-based execution, the format are including Username, credentials (Hashes or Passwd), followed by the DC domain and IP addresses. 
 
@@ -61,7 +61,7 @@ Other command specification are including:
 
 Note: If you have a TGS for SPN other than HTTP (for example CIFS) it still works (at least from what i tried). If you have a TGT, then it will request TGS for HTTP/target@domain (or your custom -spn). If -dc-ip is not specified then -dc-ip=domain. For -url / -port / -ssl same rules apply as for NTLM.
 
-_ADCS and Certificate scenarion_
+_ADCS and Certificate scenario:_
 
 ```sh
 ┌──(kali㉿kali)-[~]
