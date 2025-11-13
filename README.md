@@ -1,5 +1,5 @@
 <div align="center">
-<h2>winrmrelayx</h2>
+<h1>winrmrelayx</h1>
 
 Authentication opener with NTLM and Kerberos support for Winrm and Wmi. 
 <p></div>

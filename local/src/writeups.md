@@ -31,7 +31,7 @@ Error: Exiting with code 1
 Kerberos error in Winrm authentication:
 
 <a href="https://github.com/byt3n33dl3/winrmrelayx"><p align="left">
-<img src="/local/src/img/krb-error.png" width="200px">
+<img src="/local/src/img/krb-error.png" width="560px">
 </p></a>
 
 *With evil_wirnmrelayx.py:*
