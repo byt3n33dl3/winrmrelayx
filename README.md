@@ -21,12 +21,11 @@ You can run a single command with -X `whoami /all`, or use the "shell" mode to i
 <img src="/local/src/img/demon.png" width="240px">
 </p></a>
 
-![Python3](https://img.shields.io/badge/language-python3-blue.svg)
+![Python3](https://img.shields.io/badge/language-python3-blue.svg)<br>
 ![Nim](https://img.shields.io/badge/language-nim-yellow.svg)
 
 > [!IMPORTANT]
-
-(Experimental) evil_winrmrelayx.py adds a custom shell to replicate some of the features of evil-winrm like AMSI bypasses ability to download and upload files, run scripts/.NET executables from remote HTTP, etc. And help with Nim kit for post-exploitation and `C2 agent implant mode enable`.
+(Experimental) evil_winrmrelayx.py adds a custom shell to replicate some of the features of evil-winrm like `AMSI bypasses` ability to download and upload files, run scripts/.NET executables from remote HTTP, etc. And help with Nim kit for post-exploitation and `C2 agent implant mode enable`.
 
 <a href="https://github.com/byt3n33dl3/winrmrelayx"><p align="left">
 <img src="/local/src/img/sx.jpg" width="100px">
